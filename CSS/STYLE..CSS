@@ -1,0 +1,35 @@
+#box{
+    color :rgb(225, 231, 231);
+    background-color:blue;
+}
+.heading{
+    color :red;
+}
+#BTN{
+    COLOR:GREEN;
+}
+H1{
+    text-align: CENTER;
+    text-transform: capitalize;
+}
+P{
+    font-family: "TIMES NEW ROMAN";
+}
+#OUTER{
+    font-size:25PX;
+    height:200PX;
+    background-color:rgb(14, 14, 110);
+}
+#INNER{
+    font-size:10PX;
+    height:100PX;
+    background-color:rgb(119, 20, 20);
+}
+div{
+   
+
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    background-color:green;
+}

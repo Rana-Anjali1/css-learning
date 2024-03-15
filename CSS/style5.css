@@ -1,0 +1,9 @@
+DIV{
+    HEIGHT:100PX;
+    WIDTH:100PX;
+background-image:url("pic.jpg") ;
+background-size:cover;
+position: fixed;
+RIGHT:0PX;
+TOP:50PX;
+}
